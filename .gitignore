@@ -34,3 +34,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# lockfile npm (proyek ini memakai bun.lock)
+package-lock.json
